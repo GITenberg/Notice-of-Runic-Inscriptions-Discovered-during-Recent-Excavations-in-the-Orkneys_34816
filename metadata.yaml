@@ -1,0 +1,31 @@
+_repo: Notice-of-Runic-Inscriptions-Discovered-during-Recent-Excavations-in-the-Orkneys_34816
+_version: 0.1.0
+alternative_title: Maes-Howe
+covers:
+- cover_type: archival
+  image_path: 34816-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Farrer, James
+    birthdate: 1812
+    deathdate: 1879
+    gutenberg_agent_id: '41055'
+    url: http://www.gutenberg.org/2009/agents/41055
+description: ''
+gutenberg_issued: '2011-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PD'
+- !lcsh 'Orkney (Scotland) -- Antiquities'
+- !lcsh 'Inscriptions, Runic -- Scotland -- Orkney'
+- !lcsh 'Maes Howe (Scotland)'
+tableOfContents: Description of Maes-Howe -- The excavation of Maes-Howe -- Barrows
+  at Bookan -- Mounds at Stennes -- Barrow at Tenstone.
+title: Notice of Runic Inscriptions Discovered during Recent Excavations in the Orkneys
+url: http://www.gutenberg.org/ebooks/34816
